@@ -58,7 +58,7 @@
     "@types/parse-json": "^4.0.0",
     "@types/semver": "^7.3.12",
     "@yao-pkg/pkg": "^6.19.0",
-    "ava": "^4.3.3",
+    "ava": "^8.0.1",
     "ts-node": "^10.9.1",
     "typescript": "^6.0.3"
   }
